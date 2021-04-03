@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavtsepkov&theme=dark)](https://github.com/yaroslavtsepkov/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaroslavtsepkov&theme=dark)](https://github.com/yaroslavtsepkov/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaroslavtsepkov)](https://github.com/yaroslavtsepkov/github-readme-stats)
